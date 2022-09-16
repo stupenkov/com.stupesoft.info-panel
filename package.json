@@ -1,0 +1,38 @@
+{
+  "name": "com.stupesoft.info-panel",
+  "displayName": "UI info panel",
+  "version": "1.0.0",
+  "unity": "2020.3",
+  "description": "The panel that displays information about the object",
+  "dependencies": {
+    "com.unity.inputsystem": "1.4.2"
+  },
+  "keywords": [
+    "info",
+    "panel info",
+    "ui panel",
+    "user interface panel"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "Stupenkov Anton",
+    "email": "stupean@gmail.com",
+    "url": "https://vk.com/stupenkovanton"
+  },
+  "homepage": "https://github.com/stupenkov",
+  "bugs": {
+    "url": "https://github.com/stupenkov/com.stupesoft.info-panel/issues",
+    "email": "stupean@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stupenkov/com.stupesoft.info-panel.git"
+  },
+  "samples": [
+    {
+      "displayName": "Demo scene",
+      "description": "How to use",
+      "path": "Samples/Demo"
+    }
+  ]
+}
